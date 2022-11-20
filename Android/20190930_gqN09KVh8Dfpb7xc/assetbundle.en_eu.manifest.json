@@ -1,0 +1,261 @@
+{
+  "m_GameObject": {
+    "m_PathID": 0,
+    "m_FileID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_PathID": 3126599977334250442,
+    "m_FileID": 0
+  },
+  "m_Name": "manifest",
+  "categories": [
+    {
+      "name": "Master",
+      "assets": [
+        {
+          "name": "master",
+          "hash": "NQETGYCABPUZA2ETY2MFFME4ZHHH7AN7M4BUPH6KINPABVWXEWEQ",
+          "dependencies": [],
+          "size": 2173246,
+          "group": 1
+        }
+      ],
+      "encryptedAssets": []
+    },
+    {
+      "name": "Others",
+      "assets": [
+        {
+          "name": "images/icon/shoptopbanner/1000101",
+          "hash": "SWYXDKG6WZQFHFH7P56HAVTKSSO7AOGDOXR3LE253Y7R3X7HBJ6A",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 75026,
+          "group": 1
+        },
+        {
+          "name": "images/icon/shoptopbanner/1000201",
+          "hash": "34ZUUGF7HZCPO3GVWHCKAPJTGSXSPMSQ3P25GY67EFMWJY6NFKRA",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 72671,
+          "group": 1
+        },
+        {
+          "name": "images/icon/shoptopbanner/1000301",
+          "hash": "6Z5XSXY7S3TV5EN6OIQ4YO4HEWRVQ4RR2CN7Z4LKKJF5OLBICL7Q",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 74044,
+          "group": 1
+        },
+        {
+          "name": "images/icon/shoptopbanner/1000401",
+          "hash": "HXJH4TR5GKUCIEDTYFZCWJZPO7S57BJI6HIRINOBFOB567A5RMFQ",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 70332,
+          "group": 1
+        },
+        {
+          "name": "images/icon/shoptopbanner/1000501",
+          "hash": "TU52YUYXBGU3DGUFX3ILA7LDWV5T7VQ7ETBXRJSX3MLCZWJJBXPA",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 73438,
+          "group": 1
+        },
+        {
+          "name": "images/icon/shoptopbanner/1000601",
+          "hash": "QGLSMSMGW37E5WDSYUSWECW6DK54CY6TUJQQM7KY6WGH4KEDRIGA",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 69913,
+          "group": 1
+        },
+        {
+          "name": "images/icon/shoptopbanner/1000703",
+          "hash": "ZPYGNSCFIY6NQ5OYEOT2BM4U4MUMIH4DPL47VUBTKBX4HO2HZRVQ",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 71915,
+          "group": 1
+        },
+        {
+          "name": "images/icon/shoptopbanner/1000704",
+          "hash": "MNWXRTXG2IJ55GQ7PH655ZELWFBQC5WJOWK32C227ZUA7CMHRHIA",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 71691,
+          "group": 1
+        },
+        {
+          "name": "images/icon/shoptopbanner/shop_banner_pack_l_01",
+          "hash": "QI32PV73UZ4SQ5JKB2HWCLWZX4AGUPRNY3ATXYLI43LIEZBTH7QA",
+          "dependencies": [
+            "images/icon/shoptopbanner/shop_banner_pack_l_01_alphaa8",
+            "shader"
+          ],
+          "size": 168866,
+          "group": 1
+        },
+        {
+          "name": "images/icon/shoptopbanner/shop_banner_pack_l_01_alphaa8",
+          "hash": "3WSOVRESS5KQT7563D5WCG2VOITWWCUYDWB77XN5E6TMMRQTXB4Q",
+          "dependencies": [],
+          "size": 2376,
+          "group": 1
+        },
+        {
+          "name": "images/icon/shoptopbanner/shop_banner_pack_l_02",
+          "hash": "7SHYLZEESEXRMDXTKGT6MVKDADXA3QDN56TFDDVMCUGIQ3EKVCAA",
+          "dependencies": [
+            "images/icon/shoptopbanner/shop_banner_pack_l_02_alphaa8",
+            "shader"
+          ],
+          "size": 170699,
+          "group": 1
+        },
+        {
+          "name": "images/icon/shoptopbanner/shop_banner_pack_l_02_alphaa8",
+          "hash": "2FI3PLZBMWPYU7SBHP3IVQMVW4ZUI5LV662YMAK2KA6ZDW4YNZEA",
+          "dependencies": [],
+          "size": 2381,
+          "group": 1
+        },
+        {
+          "name": "images/icon/shoptopbanner/shop_banner_pack_l_03",
+          "hash": "PYI6CQLYTQE5XMTSQRU72B73LXKYA6MZM3OYDXRVXHQGCBAIVYGQ",
+          "dependencies": [
+            "images/icon/shoptopbanner/shop_banner_pack_l_03_alphaa8",
+            "shader"
+          ],
+          "size": 167207,
+          "group": 1
+        },
+        {
+          "name": "images/icon/shoptopbanner/shop_banner_pack_l_03_alphaa8",
+          "hash": "NHSEVODKV3ECCCRS3UDJ7HJKHAUKCUNPGQLYGAKCBXMKJ3HKO5XA",
+          "dependencies": [],
+          "size": 2376,
+          "group": 1
+        },
+        {
+          "name": "images/ingame/ui",
+          "hash": "DZ4AGMICO2SKEYQBIHI47T2MTNYYVFDYEYSJAC6FA6S5HOO265CQ",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 837128,
+          "group": 1
+        },
+        {
+          "name": "images/outgame/eventlocalized/20405/event_summon_pickup_02",
+          "hash": "GORJQV73BJ6LYYUCT2NQNRR52SSIMSHRYWMFMVKUOAZHI5QD444Q",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 44620,
+          "group": 4
+        },
+        {
+          "name": "images/outgame/eventlocalized/20406/event_summon_pickup_02",
+          "hash": "VCZFMIAHDLO23I46TE3CHYIGMYI7HGCAER34ZIGMK2O37TXNDWUQ",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 44655,
+          "group": 4
+        },
+        {
+          "name": "images/outgame/eventlocalized/20407/event_summon_pickup_02",
+          "hash": "Y6PDHD66XSNGWLIMLLIWBRHFZF2OUZRBSUJ67EX5URHYOYOQWU3A",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 44635,
+          "group": 4
+        },
+        {
+          "name": "images/outgame/eventlocalized/20413/event_summon_pickup_02",
+          "hash": "EUWJC4DWPYFXY7QN3EMNXSIJ3GTRXC55ISM53VD53URGYBVYXCZQ",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 44628,
+          "group": 4
+        },
+        {
+          "name": "images/story/tutorial/tutorial_amulet_03",
+          "hash": "Y3352P5BXMZD5AMXK7MDWCXGVTDVYA4KP4PKSZJJY67CJKLA7MYA",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 311258,
+          "group": 4
+        },
+        {
+          "name": "images/story/tutorial/tutorial_shop_01",
+          "hash": "U4YLVHQ4YXLP3V6R3IJWRCF3WZB4Q4KLR24IKK4VIKAUQD7M5HEA",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 329531,
+          "group": 4
+        },
+        {
+          "name": "images/uilocalized1/atlascompress/uilocalized1",
+          "hash": "53AMEI7FGCHXIQ6JLTJUHWIKAQ3GTMJSQ6ZE2WJCHZK3T5YTM5OA",
+          "dependencies": [
+            "images/uilocalized1/atlascompress/uilocalized1_a",
+            "shader"
+          ],
+          "size": 2353937,
+          "group": 1
+        },
+        {
+          "name": "images/uilocalized1/atlascompress/uilocalized1_a",
+          "hash": "RNBWZFHVXSGRIPSLQSWOHFPF6XDJXNZSDBPCWVBPU7WLGF7HXIJA",
+          "dependencies": [],
+          "size": 162736,
+          "group": 1
+        },
+        {
+          "name": "images/uilocalized2/atlascompress/uilocalized2",
+          "hash": "QVYZNL74WOVRVKEDESAEASN74WJCCF3HFD4G7WXYZVCO72ZP7NDQ",
+          "dependencies": [
+            "images/uilocalized2/atlascompress/uilocalized2_a",
+            "shader"
+          ],
+          "size": 1530783,
+          "group": 1
+        },
+        {
+          "name": "images/uilocalized2/atlascompress/uilocalized2_a",
+          "hash": "OKEWCP3WCSL3JVO37DQ6ARMXR45KEIOONGSTCXHBIJR2VP37V4IA",
+          "dependencies": [],
+          "size": 94766,
+          "group": 1
+        },
+        {
+          "name": "shader",
+          "hash": "AKLMEGYSJ65QO7VPOH4UA6SD7N2DTZ6CQHGRAOXKUIFMLUPOX47Q",
+          "dependencies": [],
+          "size": 3631491,
+          "group": 1
+        }
+      ],
+      "encryptedAssets": []
+    }
+  ],
+  "rawAssets": []
+}
