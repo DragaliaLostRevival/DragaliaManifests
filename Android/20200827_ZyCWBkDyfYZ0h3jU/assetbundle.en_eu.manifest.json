@@ -1,0 +1,206 @@
+{
+  "m_GameObject": {
+    "m_PathID": 0,
+    "m_FileID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_PathID": 3126599977334250442,
+    "m_FileID": 0
+  },
+  "m_Name": "manifest",
+  "categories": [
+    {
+      "name": "Master",
+      "assets": [
+        {
+          "name": "master",
+          "hash": "3UWEQVO7G3PZDQ4KPY7O3ETMDHOTCDQ65EN5OFA7T7OKOCP5QLGA",
+          "dependencies": [],
+          "size": 3713696,
+          "group": 1
+        }
+      ],
+      "encryptedAssets": []
+    },
+    {
+      "name": "Others",
+      "assets": [
+        {
+          "name": "images/icon/shoptopbanner/headerbanner/shopheaderbanner_10901",
+          "hash": "REECS26OMP4ADIFTTCMNRJ3ESXYZIKBGERZDUCMBX5LDJ7IEVF7Q",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 170165,
+          "group": 2
+        },
+        {
+          "name": "images/icon/shoptopbanner/headerbanner/shopheaderbanner_20901",
+          "hash": "YRLGOILAVDE2SCXHCANVG3WKBDE3TLBPMREGG5OK4LTK5FYKJIIA",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 168785,
+          "group": 2
+        },
+        {
+          "name": "images/icon/shoptopbanner/headerbanner/shopheaderbanner_40901",
+          "hash": "AMNDQ5TVZHFEKXBGJM45HNV33XK3EZG4ZBTU2ZYRVVGLH2QUVIVA",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 181051,
+          "group": 2
+        },
+        {
+          "name": "images/icon/shoptopbanner/shop_banner_pack_l_01",
+          "hash": "VPL7H3G3AUXJPHAYFL3LLOHSL2HNTDBPQEA3POGNEXWC5YPCLRJQ",
+          "dependencies": [
+            "images/icon/shoptopbanner/shop_banner_pack_l_01_alphaa8",
+            "shader"
+          ],
+          "size": 168867,
+          "group": 2
+        },
+        {
+          "name": "images/icon/shoptopbanner/shop_banner_pack_l_01_alphaa8",
+          "hash": "JRRG2T66OLQBAV57K4X2P6DDEIODKUVXFJKMX5SR647NH3CJLB6Q",
+          "dependencies": [],
+          "size": 2378,
+          "group": 2
+        },
+        {
+          "name": "images/icon/shoptopbanner/shop_banner_pack_l_02",
+          "hash": "MMOBWFUOPOMFBH4KUTEPT7WZBIX3R332I5YQOFHOJVUIIPDFMEZQ",
+          "dependencies": [
+            "images/icon/shoptopbanner/shop_banner_pack_l_02_alphaa8",
+            "shader"
+          ],
+          "size": 170700,
+          "group": 2
+        },
+        {
+          "name": "images/icon/shoptopbanner/shop_banner_pack_l_02_alphaa8",
+          "hash": "YKIGORPN3WHSULT766GGGC7JJIE6D32FSO53FT3NFM6Q3XRDZBBQ",
+          "dependencies": [],
+          "size": 2383,
+          "group": 2
+        },
+        {
+          "name": "images/icon/shoptopbanner/shop_banner_pack_l_03",
+          "hash": "EM4VFZMWUZG34TNLJ7V6LTAQ4CAPJSDIVEA6SLCTUZ2AL4NHPFCA",
+          "dependencies": [
+            "images/icon/shoptopbanner/shop_banner_pack_l_03_alphaa8",
+            "shader"
+          ],
+          "size": 167208,
+          "group": 2
+        },
+        {
+          "name": "images/icon/shoptopbanner/shop_banner_pack_l_03_alphaa8",
+          "hash": "ZVRCKEUMF6JWUFC6XRFAL2AHALYAQZMILR66NMUB2Y7W37QDWW7Q",
+          "dependencies": [],
+          "size": 2378,
+          "group": 2
+        },
+        {
+          "name": "images/icon/shoptopbanner/subcenterbanner/shopsubcenterbanner_01",
+          "hash": "5XJ45JA4667JDU3CTZVTLKIHIORDBSK4LRZK336Y3KVVTSOWE2AQ",
+          "dependencies": [
+            "images/icon/shoptopbanner/subcenterbanner/shopsubcenterbanner_01_alphaa8",
+            "shader"
+          ],
+          "size": 75996,
+          "group": 2
+        },
+        {
+          "name": "images/icon/shoptopbanner/subcenterbanner/shopsubcenterbanner_01_alphaa8",
+          "hash": "NA47QQT7PX7BKRC6PN3YBRY3OEO4J3VT6U6IWSMUB2JWOLB6L34Q",
+          "dependencies": [],
+          "size": 2127,
+          "group": 2
+        },
+        {
+          "name": "images/ingame/ui",
+          "hash": "46CAIZ6VHKFM2CCVZFFAXITKBX2JXOTTAGZJDRLMHE4NPR2NNVWA",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 910386,
+          "group": 1
+        },
+        {
+          "name": "images/outgame/eventlocalized/20421/event_summon_pickup_02",
+          "hash": "C3PLFI4IK5VJJLQRYDKDU74RHYJMHJ3HJ65OJMMZFUGJB5LHFB2Q",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 45296,
+          "group": 4
+        },
+        {
+          "name": "images/story/tutorial/tutorial_amulet_03",
+          "hash": "RTQJP57M3TW4KBOCDLRVW33GIJLBUUDOBNGIOSXPINV7CWM35I5Q",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 311260,
+          "group": 4
+        },
+        {
+          "name": "images/story/tutorial/tutorial_shop_01",
+          "hash": "KBOGJ2G3L3YRXM2CZPGRYVUYQCXXTMNNVDQKXWTCQGFV5JTGKFKA",
+          "dependencies": [
+            "shader"
+          ],
+          "size": 329533,
+          "group": 4
+        },
+        {
+          "name": "images/uilocalized1/atlascompress/uilocalized1",
+          "hash": "QQDFKREOR2DOA4OSVNGQMBZWAZ3B7QLJFIJQIX5OHZOMAWSZPGQQ",
+          "dependencies": [
+            "images/uilocalized1/atlascompress/uilocalized1_a",
+            "shader"
+          ],
+          "size": 2454903,
+          "group": 1
+        },
+        {
+          "name": "images/uilocalized1/atlascompress/uilocalized1_a",
+          "hash": "H3N3MEOYRKANBZ6FMOHZA47QW63OU2QGGIETBTZRYGNIQ4PSJTSQ",
+          "dependencies": [],
+          "size": 171998,
+          "group": 1
+        },
+        {
+          "name": "images/uilocalized2/atlascompress/uilocalized2",
+          "hash": "J7WPNELWAUCUSHE2MBIIR2TI3GAE73XE33N42OTGX6SQS2WIZF5Q",
+          "dependencies": [
+            "images/uilocalized2/atlascompress/uilocalized2_a",
+            "shader"
+          ],
+          "size": 1530785,
+          "group": 1
+        },
+        {
+          "name": "images/uilocalized2/atlascompress/uilocalized2_a",
+          "hash": "Y5WFG3GFMRJ7BX2EN2MNCU3KBSYVQOKPS63ONER3WBJHKYUHNWJQ",
+          "dependencies": [],
+          "size": 94768,
+          "group": 1
+        },
+        {
+          "name": "shader",
+          "hash": "5BTCL7RP4HPQSIX4ED2TH6KH5YNEHFOAWFP27VGTIGMG4FZ6JANA",
+          "dependencies": [],
+          "size": 3225372,
+          "group": 1
+        }
+      ],
+      "encryptedAssets": []
+    }
+  ],
+  "rawAssets": []
+}
